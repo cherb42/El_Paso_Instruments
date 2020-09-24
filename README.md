@@ -1,5 +1,5 @@
 # El_Paso_Instruments
-Ble peripheral for Raspberry Pi Zero W. Using BME680 Sensor.
+Ble peripheral for Raspberry Pi Zero W. Using BME680 Sensor.  
 Flutter App for android that connects to Raspberry Pi.
 
 Need for Raspberry Pi:  
