@@ -1,0 +1,53 @@
+{
+  "_from": "jvsbme680",
+  "_id": "jvsbme680@1.0.4",
+  "_inBundle": false,
+  "_integrity": "sha512-49gsl7MugcXP4NjlyDt0ooocAX+lV5oHUDzPIzw5qvvB2/LB5Ea6nYwhlVOr/jhEeYKSfTtKgsJeF3V0NAJg8A==",
+  "_location": "/jvsbme680",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "jvsbme680",
+    "name": "jvsbme680",
+    "escapedName": "jvsbme680",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/jvsbme680/-/jvsbme680-1.0.4.tgz",
+  "_shasum": "6abac10c49e342dc7ab9082c6bc2d7a4417559fc",
+  "_spec": "jvsbme680",
+  "_where": "/home/pi/BLE/node_modules",
+  "author": {
+    "name": "Joris Vervuurt Software",
+    "email": "developer@joris-vervuurt.com",
+    "url": "https://www.joris-vervuurt.com"
+  },
+  "bugs": {
+    "url": "https://github.com/jorisvervuurt/jvsbme680/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "An easy-to-use Node.js module for Pimoroni's BME680 Breakout",
+  "homepage": "https://github.com/jorisvervuurt/jvsbme680",
+  "keywords": [
+    "pimoroni",
+    "bme680",
+    "breakout",
+    "raspberry",
+    "pi"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "jvsbme680",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorisvervuurt/jvsbme680.git"
+  },
+  "version": "1.0.4"
+}
